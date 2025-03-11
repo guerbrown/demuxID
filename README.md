@@ -18,10 +18,10 @@ It does so by creating an blast database (blastdb) from NCBI's GenBank. This pre
 ## Installation
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/guerbrown/demuxid.git
-   cd demuxid
-   ```
+```
+git clone https://github.com/guerbrown/demuxid.git
+cd demuxid
+```
 
 2. Install either Mamba (recommended) or Conda
 
