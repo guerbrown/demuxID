@@ -1017,7 +1017,7 @@ Examples:
   demuxid.py setup-env
   
   # Create a default config file
-  demuxid.py init --config my_config.ini
+  demuxid.py init --config config.ini
   
   # Create a BLAST database
   demuxid.py create-db --email your.email@example.com --output_dir ./blastdb
@@ -1026,7 +1026,7 @@ Examples:
   demuxid.py blast --input_dir ./fasta_files --output_dir ./results --db_path ./blastdb/Oak_Gall_Wasps_Parasites_COX1_db
   
   # Run the complete pipeline
-  demuxid.py full --config my_config.ini
+  demuxid.py full --config config.ini
         """
     )
     
