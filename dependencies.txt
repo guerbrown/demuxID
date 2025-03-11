@@ -1,3 +1,0 @@
-Biopython: pip install biopython
-NCBI BLAST+: sudo apt-get install ncbi-blast+
-
