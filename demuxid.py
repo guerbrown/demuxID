@@ -369,48 +369,8 @@ def download_sequences(search_term, output_file, email, max_seq=50000, batch_siz
         print(f"Error writing sequences to file: {e}")
         return False
 
-def create_blast_database(input_file, output_dir, db_name):
-    """
-    Create a BLAST database from the downloaded sequences.
-    
-    Args:
-        input_file: Path to the FASTA file with sequences
-        output_dir: Directory for the database files
-        db_name: Name of the database
-    """
-    db_path = os.path.join(output_dir, db_name)
-    
-    print(f"Creating BLAST database: {db_name}")
-    
-    try:
-        # Run makeblastdb command
-        cmd = [
-            "makeblastdb",
-            "-in", input_file,
-            "-dbtype", "nucl",
-            "-out", db_path,
-            "-title", db_name,
-            "-parse_seqids"
-        ]
-        
-        subprocess.run(cmd, check=True)
-        print(f"BLAST database created at: {db_path}")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"Error creating BLAST database: {e}")
-        return False
-    except FileNotFoundError:
-        print("Error: makeblastdb command not found. Make sure BLAST+ is installed.")
-        return False
-
 def create_database(args):
     """Create a BLAST database for oak gall wasps and parasites."""
-    # Use output_dir or db_dir
-    output_dir = args.db_dir if args.db_dir else args.output_dir
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
     # Use predefined configuration if no custom taxa specified
     if args.taxa is None:
         config = get_oak_gall_wasp_config()
@@ -430,9 +390,26 @@ def create_database(args):
     # Print the search term for debugging
     print(f"\nUsing NCBI search term: {search_term}\n")
     
-    # Create a descriptive name for files
-    db_name = "Oak_Gall_Wasps_Parasites_COX1_db"
-    fasta_file = os.path.join(output_dir, f"{db_name}.fasta")
+    # Determine where to store the database
+    if hasattr(args, 'db_dir') and args.db_dir:
+        # Use explicitly provided db_dir argument
+        db_dir = args.db_dir
+    elif hasattr(args, 'db_path') and args.db_path:
+        # Use db_path from config directly
+        db_dir = args.db_path
+    else:
+        # Fall back to output_dir
+        db_dir = args.output_dir
+    
+    # Create directory if it doesn't exist
+    print(f"Using database directory: {db_dir}")
+    os.makedirs(db_dir, exist_ok=True)
+    
+    # Get database name
+    db_name = getattr(args, 'db_name', "Oak_Gall_Wasps_Parasites_COX1_db")
+    
+    # Create paths for files
+    fasta_file = os.path.join(db_dir, f"{db_name}.fasta")
     
     # Download sequences
     if download_sequences(
@@ -445,12 +422,12 @@ def create_database(args):
         # Create BLAST database
         success = create_blast_database(
             input_file=fasta_file,
-            output_dir=output_dir,
+            output_dir=db_dir,
             db_name=db_name
         )
         
         if success:
-            full_db_path = os.path.join(output_dir, db_name)
+            full_db_path = os.path.join(db_dir, db_name)
             print(f"\nDatabase created successfully at: {full_db_path}")
             print(f"Use this path with the 'blast' command: --db_path {full_db_path}")
             return 0
@@ -943,7 +920,8 @@ def create_default_config_file(path):
         'script_dir': '',
         'input_dir': '/path/to/fasta_files',
         'output_dir': '/path/to/results',
-        'db_path': '/path/to/database/Oak_Gall_Wasps_Parasites_COX1_db'
+        'db_path': '/path/to/database',
+        'db_name': 'Oak_Gall_Wasps_Parasites_COX1_db'  # Add this line
     }
     
     config['Blast'] = {
