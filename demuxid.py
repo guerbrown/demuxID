@@ -173,60 +173,83 @@ def setup_environment():
 
 def get_oak_gall_wasp_config():
     """
-    Return a predefined configuration for oak gall wasps and parasites.
+    Return a focused configuration prioritizing genus-level resolution for
+    oak gall wasps, parasites, and potential contaminants.
     
     Returns:
         Dictionary with predefined taxa and genes
     """
-    # Define all the taxa based on the comprehensive list provided
-    taxa_dict = {
-        # Main families
-        "Cynipidae": [
-            "Cynipini", 
-            "Synergini", 
-            "Ceroptresini", 
-            "Aulacideini", 
-            "Aylacini", 
-            "Diastrophini"
-        ],
-        "Diplolepididae": [],
-        "Figitidae": ["Euceroptres"],
-        
-        # Chalcidoidea superfamily and its families
-        "Chalcidoidea": [],
-        "Eurytomidae": [],
-        "Torymidae": [],
-        "Eulophidae": [],
-        "Eupelmidae": [],
-        "Megastigmidae": [],
-        "Ormyridae": [],
-        "Bethyliidae": [],
-        "Chalcidae": [],
-        "Crabonidae": [],
-        "Pteromalidae": []
-    }
-    
-    # Define specific genera that need special focus
-    special_genera = [
-        "Andricus",
-        "Neuroterus", 
-        "Cynips",
-        "Biorhiza",
-        "Dryocosmus",
-        "Synergus",
-        "Saphonecrus",
-        "Euceroptres",
-        "Ceroptres",
-        "Torymus",
-        "Ormyrus",
-        "Eurytoma",
-        "Sycophila",
-        "Eupelmus"
+    # Core genera of interest (oak gall wasps and parasites)
+    core_genera = [
+        # Oak gall wasps
+        "Acraspis", "Andricus", "Druon", "Melikaiella", "Philonix", 
+        "Zophoteras", "Callirhytis", "Loxaulus", "Amphibolips", 
+        "Kokkocynips", "Atrusca", "Feron", "Disholcaspis", 
+        "Burnettweldia", "Belonocnema", "Xanthoteras", "Neuroterus", 
+        "Cynips", "Biorhiza", "Dryocosmus", "Heteroecus", "Biorhiza", 
+        "Protobalandricus", "Striatoandricus", "Diastrophus", "Kinseyella",
+        "Odontocynips",
+        # Inquilines 
+        "Synergus", "Saphonecrus", "Ceroptres", "Euceroptres", "Synophromorpha",
+        # Parasitoids
+        "Torymus", "Ormyrus", "Eurytoma", "Sycophila", "Eupelmus", 
+        "Mesopolobus", "Cecidostiba", "Pteromalus", "Megastigmus",
+        "Aulogymnus", "Aprostocetus", "Pediobius", "Bootanomyia", "Euderus",
+        # Misc Tribes
+        "Diastrophini", "Synergini", "Ceroptresini", "Aulacideini", "Aylacini", "Cynipini"
+    ]
+
+    # Additional Hymenoptera families (potential close matches)
+    parasitoid_families = [
+        "Eulophidae", "Ichneumonidae", "Pteromalidae", "Bethyliidae", "Chalcididae",
+        "Crabonidae", "Encyritidae", "Eumeninae", "Torymidae", "Eurytomidae"
     ]
     
-    # Add the special genera to the taxa dictionary
-    for genus in special_genera:
+    # Additional Hymenoptera genera (potential close matches)
+    hymenoptera_genera = [
+        # Chalcidoids
+        "Trichogramma", "Nasonia", "Cotesia", "Aphidius", "Telenomus",
+        "Encarsia", "Aphelinus", "Anagyrus", "Copidosoma", "Spalangia",
+        # Ichneumonids
+        "Pimpla", "Ophion", "Campoplex", "Venturia", "Diadegma",
+        # Ants, bees, wasps
+        "Formica", "Camponotus", "Apis", "Bombus", "Vespula", "Polistes"
+    ]
+    
+    # Representative Diptera genera (potential contamination)
+    diptera_genera = [
+        "Drosophila", "Musca", "Aedes", "Anopheles", "Culex",
+        "Ceratitis", "Bactrocera", "Simulium", "Culicoides", "Macrodiplosis", "Polystepha"
+    ]
+    
+    # Representative beetle families
+    coleoptera_families = [
+        "Carabidae", "Staphylinidae", "Scarabaeidae", "Cerambycidae",
+        "Chrysomelidae", "Curculionidae", "Coccinellidae"
+    ]
+    
+    # Bacterial genera (common contaminants)
+    bacterial_genera = [
+        "Escherichia", "Pseudomonas", "Bacillus", "Staphylococcus",
+        "Streptococcus", "Lactobacillus", "Salmonella"
+    ]
+    
+    # Fungal genera (common contaminants)
+    fungal_genera = [
+        "Aspergillus", "Penicillium", "Candida", "Saccharomyces",
+        "Fusarium", "Rhizopus", "Alternaria"
+    ]
+    
+    # Build taxa dictionary
+    taxa_dict = {}
+    
+    # Add all genera as keys with empty lists (no subgenera)
+    for genus in core_genera + hymenoptera_genera + diptera_genera + bacterial_genera + fungal_genera:
         taxa_dict[genus] = []
+    
+    # Add beetle families
+    for family in coleoptera_families:
+        taxa_dict[family] = []
     
     # Define genes of interest - include all possible naming variations
     gene_list = [
@@ -368,7 +391,41 @@ def download_sequences(search_term, output_file, email, max_seq=50000, batch_siz
     except Exception as e:
         print(f"Error writing sequences to file: {e}")
         return False
-
+    
+def create_blast_database(input_file, output_dir, db_name):
+    """
+    Create a BLAST database from the downloaded sequences.
+    
+    Args:
+        input_file: Path to the FASTA file with sequences
+        output_dir: Directory for the database files
+        db_name: Name of the database
+    """
+    db_path = os.path.join(output_dir, db_name)
+    
+    print(f"Creating BLAST database: {db_name}")
+    
+    try:
+        # Run makeblastdb command
+        cmd = [
+            "makeblastdb",
+            "-in", input_file,
+            "-dbtype", "nucl",
+            "-out", db_path,
+            "-title", db_name,
+            "-parse_seqids"
+        ]
+        
+        subprocess.run(cmd, check=True)
+        print(f"BLAST database created at: {db_path}")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"Error creating BLAST database: {e}")
+        return False
+    except FileNotFoundError:
+        print("Error: makeblastdb command not found. Make sure BLAST+ is installed.")
+        return False
+    
 def create_database(args):
     """Create a BLAST database for oak gall wasps and parasites."""
     # Use predefined configuration if no custom taxa specified

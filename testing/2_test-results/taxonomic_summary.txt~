@@ -1,0 +1,5716 @@
+2475-999-E2
+0 Clusters
+
+2847-9-D7
+3 Clusters
+Cluster 1:
+* 665 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 615 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 3:
+* 44 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2485-326-E1_copy
+8 Clusters
+Cluster 1:
+* 447 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 2:
+* 355 Seqs
+* Neuroterus-floccosus_Q-macrocarpa_Lexington-KY_598-022-7 Alignment of 2 sequences: AW_598-022-7R_ccg171120_2017-11-20.ab1 (reversed), AW_598-022-7F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.59%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50465
+
+Cluster 3:
+* 345 Seqs
+* Neuroterus-floccosus_Q-macrocarpa_Lexington-KY_598-022-7 Alignment of 2 sequences: AW_598-022-7R_ccg171120_2017-11-20.ab1 (reversed), AW_598-022-7F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.59%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50465
+
+Cluster 4:
+* 220 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.77%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+Cluster 5:
+* 154 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 6:
+* 121 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 7:
+* 85 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 8:
+* 45 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+----------------------------------------------------------------------------------------------------
+
+2348-123-E12
+6 Clusters
+Cluster 1:
+* 55 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 2:
+* 50 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 3:
+* 34 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 30 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.33%
+* E-value: 4.01e-177
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 5:
+* 25 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 6:
+* 20 Seqs
+* Galler_Q-veluntina_736-086-1_2
+* Percent Identity: 92.63%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50412
+
+----------------------------------------------------------------------------------------------------
+
+2443-317-D1
+24 Clusters
+Cluster 1:
+* 2042 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 2:
+* 1812 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 3:
+* 1544 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 4:
+* 154 Seqs
+* No-hit
+* Percent Identity: 0.00%
+* E-value: 0
+* Accession: None
+
+Cluster 5:
+* 92 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 83 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.23%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 7:
+* 62 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 8:
+* 50 Seqs
+* Neuroterus-washingtonensis_Nw_1/1658
+* Percent Identity: 93.47%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50419
+
+Cluster 9:
+* 38 Seqs
+* Neuroterus-washingtonensis_Nw_1/1658
+* Percent Identity: 93.47%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50419
+
+Cluster 10:
+* 38 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 11:
+* 36 Seqs
+* MT259856.1 Curculionidae sp. DS103 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.82%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|22930
+
+Cluster 12:
+* 36 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.34%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 13:
+* 35 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 14:
+* 27 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 15:
+* 27 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 88.97%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 16:
+* 27 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.95%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 17:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 18:
+* 24 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 19:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 20:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.36%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 21:
+* 22 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 22:
+* 21 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.38%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 23:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.49%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 24:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.47%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2796-142-D1
+2 Clusters
+Cluster 1:
+* 115 Seqs
+* Disholcaspis-quercusglobulus_Q-muehlenbergii_Nashville-TN_1126-019-3 Alignment of 2 sequences: AW_1126-019-3F_ccg181218_2018-12-18.ab1, AW_1126-019-3R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.55%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50516
+
+Cluster 2:
+* 113 Seqs
+* Disholcaspis-quercusglobulus_Q-muehlenbergii_Nashville-TN_1126-019-3 Alignment of 2 sequences: AW_1126-019-3F_ccg181218_2018-12-18.ab1, AW_1126-019-3R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.55%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50516
+
+----------------------------------------------------------------------------------------------------
+
+2881-999-D1
+2 Clusters
+Cluster 1:
+* 142 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 124 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+----------------------------------------------------------------------------------------------------
+
+2574-409-D1
+2 Clusters
+Cluster 1:
+* 278 Seqs
+* OM925542.1 Andricus mairei isolate SG-A mitochondrion, complete genome
+* Percent Identity: 92.87%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|46912
+
+Cluster 2:
+* 257 Seqs
+* OM925542.1 Andricus mairei isolate SG-A mitochondrion, complete genome
+* Percent Identity: 92.87%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|46912
+
+----------------------------------------------------------------------------------------------------
+
+2847-9-D1
+2 Clusters
+Cluster 1:
+* 1903 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 1615 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2320-356-E4
+0 Clusters
+
+2878-11-001
+7 Clusters
+Cluster 1:
+* 1052 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 2:
+* 1053 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 3:
+* 159 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+Cluster 4:
+* 155 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+Cluster 5:
+* 80 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 6:
+* 45 Seqs
+* Dryocosmus-imbricariae_Q-falcata_Paris-TN_1133-059-2
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50403
+
+Cluster 7:
+* 20 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.72%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+----------------------------------------------------------------------------------------------------
+
+2878-11-002
+2 Clusters
+Cluster 1:
+* 90 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 28 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+----------------------------------------------------------------------------------------------------
+
+2396-50-D1
+9 Clusters
+Cluster 1:
+* 81 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 2:
+* 68 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.17%
+* E-value: 6.70e-175
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 3:
+* 33 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 4:
+* 32 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 29 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 6:
+* 23 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 7:
+* 23 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 8:
+* 22 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.20%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 9:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.55%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2847-9-D2
+11 Clusters
+Cluster 1:
+* 4724 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 4770 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 3:
+* 329 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 4:
+* 97 Seqs
+* 703-061-2A_Synergus_walshii_Quercus_alba_Druon_quercusflocci_Iowa_City_IA [organism=Synergus walshii] Synergus walshii 703-061-2A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50217
+
+Cluster 5:
+* 83 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 6:
+* 85 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 7:
+* 80 Seqs
+* 703-061-2A_Synergus_walshii_Quercus_alba_Druon_quercusflocci_Iowa_City_IA [organism=Synergus walshii] Synergus walshii 703-061-2A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50217
+
+Cluster 8:
+* 53 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 9:
+* 45 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 10:
+* 31 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 11:
+* 31 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+2379-171-E3_copy
+6 Clusters
+Cluster 1:
+* 342 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 341 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+Cluster 3:
+* 239 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+Cluster 4:
+* 150 Seqs
+* MT259856.1 Curculionidae sp. DS103 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.84%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|22930
+
+Cluster 5:
+* 27 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 6:
+* 18 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+----------------------------------------------------------------------------------------------------
+
+3155-456-D6
+58 Clusters
+Cluster 1:
+* 2293 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 1703 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 1678 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 4:
+* 245 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.96%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 5:
+* 176 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.82%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 6:
+* 150 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 7:
+* 151 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 8:
+* 128 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.95%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 9:
+* 127 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 10:
+* 113 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 11:
+* 105 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.31%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 12:
+* 101 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 13:
+* 100 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 14:
+* 85 Seqs
+* Eulophid_q-chrysolepis-like-h-pacificus_Q-chrysolepis_Grandada-Hills-CA_1933-290-1A_Blumfield
+* Percent Identity: 94.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50602
+
+Cluster 15:
+* 83 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 16:
+* 79 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 90.98%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 17:
+* 67 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 18:
+* 65 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 19:
+* 63 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 20:
+* 62 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.27%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 21:
+* 62 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 22:
+* 61 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 23:
+* 57 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 24:
+* 56 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.63%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 25:
+* 51 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.20%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 26:
+* 50 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 27:
+* 48 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.63%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 28:
+* 45 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.10%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 29:
+* 43 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 30:
+* 43 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 31:
+* 42 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 32:
+* 41 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 33:
+* 40 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 34:
+* 39 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 35:
+* 39 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 36:
+* 35 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 37:
+* 33 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 38:
+* 32 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 39:
+* 32 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 40:
+* 32 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 41:
+* 30 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 42:
+* 30 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 43:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 44:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 45:
+* 27 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 89.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 46:
+* 27 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.12%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 47:
+* 27 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 48:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 49:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 50:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 51:
+* 23 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 52:
+* 23 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 53:
+* 22 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 54:
+* 21 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.19%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 55:
+* 21 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 56:
+* 21 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 57:
+* 21 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 58:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+3136-450-D4
+10 Clusters
+Cluster 1:
+* 919 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 2:
+* 902 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 3:
+* 71 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 31 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 5:
+* 29 Seqs
+* Torymus_Callirhytis-nigrae_Q-marilandica_Arlington-TX_2486-164-17_A-Kranz
+* Percent Identity: 90.83%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50031
+
+Cluster 6:
+* 26 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 7:
+* 24 Seqs
+* Torymus_Dryocosmus-sp_Q-marilandica_Arlington-TX_2607-999-E1_A-Kranz
+* Percent Identity: 88.96%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50036
+
+Cluster 8:
+* 22 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 9:
+* 21 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 10:
+* 20 Seqs
+* Torymus_Dryocosmus-sp_Q-marilandica_Arlington-TX_2607-999-E1_A-Kranz
+* Percent Identity: 88.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50036
+
+----------------------------------------------------------------------------------------------------
+
+2510-324-D4
+2 Clusters
+Cluster 1:
+* 64 Seqs
+* Torymus_Feron-parmula_Q-lobata_2273-324-E1_J-Layton
+* Percent Identity: 98.93%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50038
+
+Cluster 2:
+* 55 Seqs
+* Torymus_unknown-bud-gall_Q-lobata_Walnut-Grove-CA_2511-999-D1_N-Ito_(reversed)
+* Percent Identity: 98.93%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50040
+
+----------------------------------------------------------------------------------------------------
+
+2200-343-1_copy
+3 Clusters
+Cluster 1:
+* 138 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 2:
+* 50 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 3:
+* 28 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+----------------------------------------------------------------------------------------------------
+
+840-016-23F_or_2370-51-E5
+7 Clusters
+Cluster 1:
+* 1298 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 2:
+* 1055 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 3:
+* 121 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 87.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 114 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 87.56%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 76 Seqs
+* Callirhtyis-quercusfutilis_Q-alba_Iowa-City-IA_899-051-1a Alignment of 2 sequences: AW_899-051-1aF_ccg171109_2017-11-09.ab1, AW_899-051-1aR_ccg171109_2017-11-09.ab1 (reversed)
+* Percent Identity: 97.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50509
+
+Cluster 6:
+* 65 Seqs
+* Callirhtyis-quercusfutilis_Q-alba_Iowa-City-IA_899-051-1a Alignment of 2 sequences: AW_899-051-1aF_ccg171109_2017-11-09.ab1, AW_899-051-1aR_ccg171109_2017-11-09.ab1 (reversed)
+* Percent Identity: 97.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50509
+
+Cluster 7:
+* 40 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+3155-456-D2
+57 Clusters
+Cluster 1:
+* 3389 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 2689 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 188 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 4:
+* 158 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 5:
+* 153 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 150 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 7:
+* 137 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 8:
+* 133 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.19%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 9:
+* 130 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.33%
+* E-value: 4.01e-177
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 10:
+* 116 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 11:
+* 109 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 12:
+* 108 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 13:
+* 100 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 14:
+* 96 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 15:
+* 78 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 16:
+* 76 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 17:
+* 71 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 18:
+* 70 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.49%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 19:
+* 65 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 20:
+* 64 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 21:
+* 59 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 22:
+* 58 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 23:
+* 58 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.34%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 24:
+* 56 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 25:
+* 56 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 26:
+* 54 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 27:
+* 54 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.49%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 28:
+* 48 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 29:
+* 48 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 30:
+* 47 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 31:
+* 46 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 32:
+* 44 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 33:
+* 41 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 34:
+* 41 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 35:
+* 41 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 36:
+* 40 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 37:
+* 40 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 38:
+* 39 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 39:
+* 38 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.15%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 40:
+* 38 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.34%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 41:
+* 38 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 42:
+* 37 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 43:
+* 35 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.07%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 44:
+* 33 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 45:
+* 33 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 88.97%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 46:
+* 32 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 47:
+* 31 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.55%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 48:
+* 31 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 49:
+* 29 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 50:
+* 27 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 51:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 52:
+* 22 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 53:
+* 22 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 54:
+* 21 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.16%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 55:
+* 20 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 88.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 56:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.20%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 57:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2134-324-E8
+7 Clusters
+Cluster 1:
+* 121 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 122 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+Cluster 3:
+* 86 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 4:
+* 61 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 5:
+* 43 Seqs
+* Unknwon-q-vacciniifolia-little-cup-gall_Q-vacciniifolia_KNF-CA_1818-246-1_all;658;92
+* Percent Identity: 97.57%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50438
+
+Cluster 6:
+* 33 Seqs
+* Unknwon-q-vacciniifolia-little-cup-gall_Q-vacciniifolia_KNF-CA_1818-246-1_all;658;92
+* Percent Identity: 97.57%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50438
+
+Cluster 7:
+* 27 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2003-62-1
+7 Clusters
+Cluster 1:
+* 727 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 2:
+* 446 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 3:
+* 295 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 4:
+* 288 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 5:
+* 138 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 6:
+* 25 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 7:
+* 24 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+----------------------------------------------------------------------------------------------------
+
+2157-327-1A_copy
+2 Clusters
+Cluster 1:
+* 31 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 20 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+----------------------------------------------------------------------------------------------------
+
+2395-51-E2
+11 Clusters
+Cluster 1:
+* 884 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 88 Seqs
+* Eulophidae_q-velutina-melon-bud-gall_Q-velutina_Elkhart-County-IN_1876-270-16_L-Elder_(reversed)__(reversed)
+* Percent Identity: 90.95%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50622
+
+Cluster 3:
+* 87 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 4:
+* 46 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 5:
+* 44 Seqs
+* Eulophidae_q-velutina-melon-bud-gall_Q-velutina_Elkhart-Co-IN_1876-270-20_L-Elder_(reversed)
+* Percent Identity: 91.10%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50621
+
+Cluster 6:
+* 44 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 7:
+* 37 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 8:
+* 36 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.82%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 9:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 10:
+* 24 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 11:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2184-337-1_copy
+11 Clusters
+Cluster 1:
+* 326 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 2:
+* 242 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.14%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 3:
+* 116 Seqs
+* Neuroterus-washingtonensis_Nw_1/1658
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50419
+
+Cluster 4:
+* 110 Seqs
+* Neuroterus-washingtonensis_Nw_1/1658
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50419
+
+Cluster 5:
+* 62 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 6:
+* 55 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 7:
+* 48 Seqs
+* Galler_Q-veluntina_736-086-1_2
+* Percent Identity: 97.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50412
+
+Cluster 8:
+* 50 Seqs
+* PV055144.1 Polistes sp. isolate NIBR-RORX0000006245 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 83.74%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|972
+
+Cluster 9:
+* 41 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 10:
+* 24 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 11:
+* 21 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.57%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+----------------------------------------------------------------------------------------------------
+
+3101-446-D1
+12 Clusters
+Cluster 1:
+* 2075 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 2:
+* 1621 Seqs
+* PV055144.1 Polistes sp. isolate NIBR-RORX0000006245 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 83.74%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|972
+
+Cluster 3:
+* 1268 Seqs
+* OR753619.1 Polistes gilvus voucher IEBR-Ves-107 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.34%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|30174
+
+Cluster 4:
+* 304 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.14%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 5:
+* 110 Seqs
+* Galler_Q-veluntina_736-086-1_2
+* Percent Identity: 97.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50412
+
+Cluster 6:
+* 74 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 7:
+* 72 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 88.97%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 8:
+* 34 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 9:
+* 26 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 94.06%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 10:
+* 22 Seqs
+* Callirhtyis-quercusfutilis_Q-alba_Iowa-City-IA_899-051-1a Alignment of 2 sequences: AW_899-051-1aF_ccg171109_2017-11-09.ab1, AW_899-051-1aR_ccg171109_2017-11-09.ab1 (reversed)
+* Percent Identity: 93.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50509
+
+Cluster 11:
+* 22 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 12:
+* 20 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+----------------------------------------------------------------------------------------------------
+
+2953-438-D1
+0 Clusters
+
+2165-330-1_copy
+3 Clusters
+Cluster 1:
+* 150 Seqs
+* Callirhtyis-quercusfutilis_Q-alba_Iowa-City-IA_899-051-1a Alignment of 2 sequences: AW_899-051-1aF_ccg171109_2017-11-09.ab1, AW_899-051-1aR_ccg171109_2017-11-09.ab1 (reversed)
+* Percent Identity: 93.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50509
+
+Cluster 2:
+* 146 Seqs
+* Callirhtyis-quercusfutilis_Q-alba_Iowa-City-IA_899-051-1a Alignment of 2 sequences: AW_899-051-1aF_ccg171109_2017-11-09.ab1, AW_899-051-1aR_ccg171109_2017-11-09.ab1 (reversed)
+* Percent Identity: 93.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50509
+
+Cluster 3:
+* 37 Seqs
+* PV055144.1 Polistes sp. isolate NIBR-RORX0000006245 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 83.74%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|972
+
+----------------------------------------------------------------------------------------------------
+
+3136-450-D1
+1 Clusters
+Cluster 1:
+* 73 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+----------------------------------------------------------------------------------------------------
+
+3045-401-E1
+10 Clusters
+Cluster 1:
+* 177 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 167 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 36 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 4:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 5:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 7:
+* 25 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 8:
+* 24 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 9:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.72%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 10:
+* 22 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2138-22-E3
+0 Clusters
+
+1820-247-D6
+13 Clusters
+Cluster 1:
+* 1191 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 708 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 544 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 4:
+* 425 Seqs
+* OQ297733.1 Andricus sp. isolate a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.23%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|44136
+
+Cluster 5:
+* 344 Seqs
+* OQ297733.1 Andricus sp. isolate a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|44136
+
+Cluster 6:
+* 202 Seqs
+* 419-042-26A_Ceroptres_sp1-32-33-34_Q_bicolor_Andricus_quercuspetiolicola_Iowa_City_IA
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50679
+
+Cluster 7:
+* 84 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+Cluster 8:
+* 66 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 97.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 9:
+* 65 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 10:
+* 35 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+Cluster 11:
+* 36 Seqs
+* OP580122.1 Trichogramma sp. 1 PFRJ-2022b isolate PR20-459 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|39899
+
+Cluster 12:
+* 27 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 13:
+* 24 Seqs
+* 703-061-2A_Synergus_walshii_Quercus_alba_Druon_quercusflocci_Iowa_City_IA [organism=Synergus walshii] Synergus walshii 703-061-2A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50217
+
+----------------------------------------------------------------------------------------------------
+
+3156-456-D2
+3 Clusters
+Cluster 1:
+* 82 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 21 Seqs
+* OR339872.1 Torymus sp. voucher Hy145 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.43%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|31646
+
+Cluster 3:
+* 21 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+3044-999-E1
+3 Clusters
+Cluster 1:
+* 980 Seqs
+* MT259856.1 Curculionidae sp. DS103 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.82%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|22930
+
+Cluster 2:
+* 700 Seqs
+* MT259856.1 Curculionidae sp. DS103 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.84%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|22930
+
+Cluster 3:
+* 27 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2543-54-E4
+10 Clusters
+Cluster 1:
+* 195 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 2:
+* 164 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 3:
+* 130 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 4:
+* 97 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 58 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 6:
+* 47 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 7:
+* 41 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.14%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 8:
+* 34 Seqs
+* OR336228.1 Pteromalus sp. voucher 10X00MS192021 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 90.72%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|13980
+
+Cluster 9:
+* 28 Seqs
+* OR336228.1 Pteromalus sp. voucher 10X00MS192021 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 90.74%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|13980
+
+Cluster 10:
+* 27 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.48%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+----------------------------------------------------------------------------------------------------
+
+2036-19-D2
+9 Clusters
+Cluster 1:
+* 538 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 2:
+* 388 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 3:
+* 274 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 259 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 5:
+* 247 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 6:
+* 151 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 7:
+* 111 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 8:
+* 60 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 9:
+* 21 Seqs
+* Eulophidae_Druon-ignotum_Q-macrocarpa_Tolstoi-Canada_2390-8-E12_C-Friesen
+* Percent Identity: 90.96%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50611
+
+----------------------------------------------------------------------------------------------------
+
+3094-204-D2
+4 Clusters
+Cluster 1:
+* 40 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 28 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 20 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 20 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+----------------------------------------------------------------------------------------------------
+
+2517-72-E2
+12 Clusters
+Cluster 1:
+* 3052 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 2:
+* 2230 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.66%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 3:
+* 1662 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 999 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 5:
+* 927 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 6:
+* 84 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 87.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 7:
+* 49 Seqs
+* Unknown-q-garryana-plate-gall_Q-garryana_Gazelle-CA_1813-242-1A_all;658;15_(reversed)
+* Percent Identity: 95.74%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50434
+
+Cluster 8:
+* 46 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 91.90%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 9:
+* 33 Seqs
+* Eulophidae_q-velutina-melon-bud-gall_Q-velutina_Elkhart-Co-IN_1876-270-20_L-Elder_(reversed)
+* Percent Identity: 91.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50621
+
+Cluster 10:
+* 31 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 11:
+* 31 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 12:
+* 20 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 92.86%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+----------------------------------------------------------------------------------------------------
+
+2896-275-D1
+5 Clusters
+Cluster 1:
+* 249 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 2:
+* 167 Seqs
+* Dryocosmus-imbricariae_Q-falcata_Paris-TN_1133-059-2
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50403
+
+Cluster 3:
+* 155 Seqs
+* Dryocosmus-imbricariae_Q-falcata_Paris-TN_1133-059-2
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50403
+
+Cluster 4:
+* 37 Seqs
+* Neuroterus-floccosus_Q-macrocarpa_Lexington-KY_598-022-7 Alignment of 2 sequences: AW_598-022-7R_ccg171120_2017-11-20.ab1 (reversed), AW_598-022-7F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.59%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50465
+
+Cluster 5:
+* 22 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.77%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+----------------------------------------------------------------------------------------------------
+
+2894-276-D3
+13 Clusters
+Cluster 1:
+* 873 Seqs
+* 419-042-26A_Ceroptres_sp1-32-33-34_Q_bicolor_Andricus_quercuspetiolicola_Iowa_City_IA
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50679
+
+Cluster 2:
+* 707 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 3:
+* 689 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 4:
+* 392 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 5:
+* 238 Seqs
+* 419-042-26A_Ceroptres_sp1-32-33-34_Q_bicolor_Andricus_quercuspetiolicola_Iowa_City_IA
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50679
+
+Cluster 6:
+* 211 Seqs
+* OQ297733.1 Andricus sp. isolate a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|44136
+
+Cluster 7:
+* 168 Seqs
+* 527-011-15_Synergus_oneratus_Quercus_bicolor_Andricus_quercusstrobilanus_Iowa_City_IA_1 [organism=Synergus oneratus] Synergus oneratus 527-011-15 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50154
+
+Cluster 8:
+* 53 Seqs
+* Disholcaspis-querucusmamma_Q-macrocarpa_Iowa-City-IA_644-020-1 Alignment of 2 sequences: AW_644-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_644-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50472
+
+Cluster 9:
+* 48 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+Cluster 10:
+* 43 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 11:
+* 30 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 12:
+* 23 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 94.83%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 13:
+* 18 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+----------------------------------------------------------------------------------------------------
+
+2515-12-E12
+5 Clusters
+Cluster 1:
+* 1723 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 2:
+* 1357 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 3:
+* 57 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 30 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 5:
+* 20 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+----------------------------------------------------------------------------------------------------
+
+2880-999-D1
+15 Clusters
+Cluster 1:
+* 527 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 2:
+* 495 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.14%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 3:
+* 511 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 95.14%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 4:
+* 479 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 5:
+* 51 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 6:
+* 39 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 7:
+* 35 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 8:
+* 30 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 9:
+* 28 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 10:
+* 27 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 94.98%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 11:
+* 26 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.87%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 12:
+* 23 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.20%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 13:
+* 23 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 14:
+* 20 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 94.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 15:
+* 20 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+----------------------------------------------------------------------------------------------------
+
+2910-436-D1
+3 Clusters
+Cluster 1:
+* 1042 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 2:
+* 1018 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 3:
+* 23 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+----------------------------------------------------------------------------------------------------
+
+3135-449-D1
+15 Clusters
+Cluster 1:
+* 2936 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 2:
+* 2390 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 3:
+* 62 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 4:
+* 60 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 5:
+* 46 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.68%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 6:
+* 46 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 7:
+* 43 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 91.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 8:
+* 42 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 9:
+* 38 Seqs
+* Philonix-fulvicollis_Q-michauxii_Asheville-NC_571-023-1 Alignment of 2 sequences: AW_571-023-1R_ccg171120_2017-11-20.ab1 (reversed), AW_571-023-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50463
+
+Cluster 10:
+* 34 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 91.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 11:
+* 28 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 94.06%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 12:
+* 27 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 93.61%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 13:
+* 27 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 14:
+* 26 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.13%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 15:
+* 26 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+----------------------------------------------------------------------------------------------------
+
+2898-999-D1
+3 Clusters
+Cluster 1:
+* 1608 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 2:
+* 1292 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 3:
+* 32 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+----------------------------------------------------------------------------------------------------
+
+840-016-17B_or_3156-456-D6
+11 Clusters
+Cluster 1:
+* 147 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 2:
+* 125 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+Cluster 3:
+* 118 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 84 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 5:
+* 71 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 6:
+* 59 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 7:
+* 45 Seqs
+* OR339872.1 Torymus sp. voucher Hy145 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|31646
+
+Cluster 8:
+* 34 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 9:
+* 25 Seqs
+* OR339872.1 Torymus sp. voucher Hy145 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|31646
+
+Cluster 10:
+* 27 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.63%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 11:
+* 20 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2510-324-D8
+0 Clusters
+
+2370-51-E3
+0 Clusters
+
+2082-70-1B
+6 Clusters
+Cluster 1:
+* 112 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 94.83%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 2:
+* 82 Seqs
+* 1076-101-1A_Synergus_nr._lignicola_Quercus_rubra_Callirhytis_quercusgemmaria_Traverse_City_MI [organism=Synergus nr. lignicola] Synergus nr. lignicola 1076-101-1A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 94.83%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50088
+
+Cluster 3:
+* 73 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 4:
+* 41 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.29%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 5:
+* 28 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 6:
+* 20 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+----------------------------------------------------------------------------------------------------
+
+2034-5-1
+5 Clusters
+Cluster 1:
+* 986 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 672 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 3:
+* 185 Seqs
+* Disholcaspis-querucusmamma_Q-macrocarpa_Iowa-City-IA_644-020-1 Alignment of 2 sequences: AW_644-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_644-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50472
+
+Cluster 4:
+* 61 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 5:
+* 39 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+----------------------------------------------------------------------------------------------------
+
+2904-41-D1
+8 Clusters
+Cluster 1:
+* 119 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 2:
+* 104 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 55 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 4:
+* 43 Seqs
+* OM925542.1 Andricus mairei isolate SG-A mitochondrion, complete genome
+* Percent Identity: 92.87%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|46912
+
+Cluster 5:
+* 40 Seqs
+* Callirhytis-scitula_Q-rubra_Tiffin-IA_872-049-1a Alignment of 2 sequences: AW_872-049-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_872-049-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 98.48%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50506
+
+Cluster 6:
+* 27 Seqs
+* Callirhytis-scitula_Q-rubra_Tiffin-IA_872-049-1a Alignment of 2 sequences: AW_872-049-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_872-049-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 98.48%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50506
+
+Cluster 7:
+* 26 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 8:
+* 21 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+----------------------------------------------------------------------------------------------------
+
+3043-146-D1
+3 Clusters
+Cluster 1:
+* 55 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 2:
+* 44 Seqs
+* Disholcaspis-quercusglobulus_Q-stellata_St-Louis-MO_536-019-10 Alignment of 2 sequences: AW_536-019-10R_ccg171207_2017-12-07.ab1 (reversed), AW_536-019-10F_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50459
+
+Cluster 3:
+* 29 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+----------------------------------------------------------------------------------------------------
+
+3039-23-D1_copy
+4 Clusters
+Cluster 1:
+* 889 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 223 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+Cluster 3:
+* 118 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+Cluster 4:
+* 51 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+----------------------------------------------------------------------------------------------------
+
+2515-12-E9
+0 Clusters
+
+2892-9-D1
+13 Clusters
+Cluster 1:
+* 312 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 275 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 3:
+* 122 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+Cluster 4:
+* 120 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 5:
+* 89 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 6:
+* 86 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 7:
+* 84 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 8:
+* 81 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 9:
+* 37 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 10:
+* 37 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 11:
+* 34 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 12:
+* 24 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 13:
+* 24 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2361-44-E1
+3 Clusters
+Cluster 1:
+* 45 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 23 Seqs
+* MG501701.1 Telenomus sp. BIOUG20492-E11 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 80.71%
+* E-value: 3.33e-123
+* Accession: gnl|BL_ORD_ID|49078
+
+Cluster 3:
+* 20 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+2498-317-E1
+10 Clusters
+Cluster 1:
+* 212 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 211 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 3:
+* 154 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 157 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 112 Seqs
+* Torymus_Dryocosmus-dubiousus_Q-agrifolia_Walnut-Grove-CA_2510-324-D6_N-Ito
+* Percent Identity: 88.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50035
+
+Cluster 6:
+* 77 Seqs
+* Torymus_Dryocosmus-dubiousus_Q-agrifolia_Walnut-Grove-CA_2510-324-D6_N-Ito
+* Percent Identity: 88.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50035
+
+Cluster 7:
+* 40 Seqs
+* PQ501298.1 Onthophagus rubricatus voucher SPEC#3850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 83.51%
+* E-value: 2.44e-174
+* Accession: gnl|BL_ORD_ID|7256
+
+Cluster 8:
+* 40 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 9:
+* 38 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+Cluster 10:
+* 22 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+----------------------------------------------------------------------------------------------------
+
+3077-445-D1
+6 Clusters
+Cluster 1:
+* 514 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 94.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 2:
+* 346 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 94.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 3:
+* 63 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 94.61%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 4:
+* 25 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 92.37%
+* E-value: 6.72e-96
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 5:
+* 21 Seqs
+* Cynips-multipuncata_Q-douglasii_Walnut-Creek-CA_1898-150-2_all;658;100_(reversed)
+* Percent Identity: 93.31%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50399
+
+Cluster 6:
+* 21 Seqs
+* Cynips-multipuncata_Q-douglasii_Walnut-Creek-CA_1898-150-2_all;658;100_(reversed)
+* Percent Identity: 93.31%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50399
+
+----------------------------------------------------------------------------------------------------
+
+3049-999-E1
+9 Clusters
+Cluster 1:
+* 129 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 94 Seqs
+* 1059-024-1_all;651;77
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50570
+
+Cluster 3:
+* 82 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 75 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+Cluster 5:
+* 75 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 6:
+* 52 Seqs
+* 1059-024-1_all;651;77
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50570
+
+Cluster 7:
+* 37 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 8:
+* 32 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 9:
+* 27 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+3134-126-D1
+3 Clusters
+Cluster 1:
+* 101 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 29 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 3:
+* 20 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+----------------------------------------------------------------------------------------------------
+
+2266-137-E3
+1 Clusters
+Cluster 1:
+* 30 Seqs
+* Eulophid_q-chrysolepis-like-h-pacificus_Q-chrysolepis_Grandada-Hills-CA_1933-290-1A_Blumfield
+* Percent Identity: 94.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50602
+
+----------------------------------------------------------------------------------------------------
+
+3156-456-D5
+12 Clusters
+Cluster 1:
+* 4588 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 2:
+* 3490 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 220 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 4:
+* 150 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 145 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 6:
+* 101 Seqs
+* Unknown-q-garryana-plate-gall_Q-garryana_Gazelle-CA_1813-242-1A_all;658;15_(reversed)
+* Percent Identity: 95.74%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50434
+
+Cluster 7:
+* 98 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 8:
+* 50 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 92.86%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 9:
+* 44 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 10:
+* 39 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 92.86%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 11:
+* 29 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 12:
+* 27 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.12%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+2850-999-E1
+14 Clusters
+Cluster 1:
+* 1342 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 458 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.80%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 3:
+* 180 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+Cluster 4:
+* 125 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 5:
+* 62 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.19%
+* E-value: 1.86e-175
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 6:
+* 39 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 7:
+* 36 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 8:
+* 33 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 9:
+* 32 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 10:
+* 33 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.62%
+* E-value: 6.63e-180
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 11:
+* 30 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 12:
+* 24 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 13:
+* 24 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.75%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 14:
+* 21 Seqs
+* 703-061-2A_Synergus_walshii_Quercus_alba_Druon_quercusflocci_Iowa_City_IA [organism=Synergus walshii] Synergus walshii 703-061-2A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50217
+
+----------------------------------------------------------------------------------------------------
+
+270-042-140_or_2001-293-E4
+7 Clusters
+Cluster 1:
+* 1231 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 2:
+* 1002 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 3:
+* 77 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 4:
+* 32 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 5:
+* 31 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 6:
+* 26 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 7:
+* 20 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+----------------------------------------------------------------------------------------------------
+
+2034-5-2
+3 Clusters
+Cluster 1:
+* 291 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 259 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 3:
+* 23 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+----------------------------------------------------------------------------------------------------
+
+2155-293-E4
+10 Clusters
+Cluster 1:
+* 287 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 2:
+* 202 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 3:
+* 135 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 4:
+* 94 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 86 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 6:
+* 79 Seqs
+* Eulophidae_Druon-ignotum_Q-macrocarpa_Tolstoi-Canada_2390-8-E12_C-Friesen
+* Percent Identity: 90.98%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50611
+
+Cluster 7:
+* 74 Seqs
+* Eulophidae_Druon-ignotum_Q-macrocarpa_Tolstoi-Canada_2390-8-E12_C-Friesen
+* Percent Identity: 90.96%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50611
+
+Cluster 8:
+* 72 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+Cluster 9:
+* 66 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 10:
+* 29 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+3156-456-D3
+3 Clusters
+Cluster 1:
+* 2290 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 2:
+* 1864 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 42 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+2853-276-01
+4 Clusters
+Cluster 1:
+* 394 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 2:
+* 272 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 3:
+* 77 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 4:
+* 62 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+----------------------------------------------------------------------------------------------------
+
+2871-64-D1
+2 Clusters
+Cluster 1:
+* 24 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 21 Seqs
+* Unknown-q-montana-fuzzy-shere_Q-montana_Arlington-VA2011-304-3_all;658;100_(reversed)
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50435
+
+----------------------------------------------------------------------------------------------------
+
+2873-19-D1
+2 Clusters
+Cluster 1:
+* 430 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+Cluster 2:
+* 335 Seqs
+* 830-019-1_mi_Eurytoma_querciglobuli_Q_Disholcaspis_quercusglobulus_asex_St_Louis_MO_(reversed)
+* Percent Identity: 98.77%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50564
+
+----------------------------------------------------------------------------------------------------
+
+2436-30-E2
+8 Clusters
+Cluster 1:
+* 542 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 97.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 2:
+* 471 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 97.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 3:
+* 175 Seqs
+* Eulophidae_Dryocosmus-quercusnotha_Q-palustris_Wayne-PA_2456-87-E3_B-Burrous
+* Percent Identity: 93.27%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50614
+
+Cluster 4:
+* 161 Seqs
+* Eulophidae_Dryocosmus-quercusnotha_Q-palustris_Wayne-PA_2456-87-E3_B-Burrous
+* Percent Identity: 93.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50614
+
+Cluster 5:
+* 138 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 6:
+* 140 Seqs
+* Disholcaspis-querucusmamma_Q-macrocarpa_Iowa-City-IA_644-020-1 Alignment of 2 sequences: AW_644-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_644-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50472
+
+Cluster 7:
+* 70 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 8:
+* 34 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+2396-50-D2
+9 Clusters
+Cluster 1:
+* 289 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 201 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.31%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 3:
+* 172 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 4:
+* 150 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 120 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 6:
+* 57 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 7:
+* 36 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 8:
+* 20 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.66%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 9:
+* 19 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+----------------------------------------------------------------------------------------------------
+
+2870-999-D1
+6 Clusters
+Cluster 1:
+* 237 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 123 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 3:
+* 65 Seqs
+* PQ501298.1 Onthophagus rubricatus voucher SPEC#3850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 83.51%
+* E-value: 2.44e-174
+* Accession: gnl|BL_ORD_ID|7256
+
+Cluster 4:
+* 64 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 5:
+* 41 Seqs
+* PQ501298.1 Onthophagus rubricatus voucher SPEC#3850 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial
+* Percent Identity: 83.51%
+* E-value: 2.44e-174
+* Accession: gnl|BL_ORD_ID|7256
+
+Cluster 6:
+* 31 Seqs
+* Dryocosmus-imbricariae_Q-falcata_Paris-TN_1133-059-2
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50403
+
+----------------------------------------------------------------------------------------------------
+
+2543-54-E2
+0 Clusters
+
+3155-456-D7
+8 Clusters
+Cluster 1:
+* 306 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 113 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 42 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 4:
+* 32 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 30 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 22 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 7:
+* 20 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 8:
+* 20 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+3155-456-D5
+2 Clusters
+Cluster 1:
+* 427 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 323 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+2944-437-D1
+4 Clusters
+Cluster 1:
+* 188 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 2:
+* 119 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 3:
+* 42 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 4:
+* 20 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.31%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+----------------------------------------------------------------------------------------------------
+
+840-016-23a_or_2348-123-E16
+9 Clusters
+Cluster 1:
+* 605 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 2:
+* 568 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+Cluster 3:
+* 351 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 4:
+* 270 Seqs
+* 419-042-26A_Ceroptres_sp1-32-33-34_Q_bicolor_Andricus_quercuspetiolicola_Iowa_City_IA
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50679
+
+Cluster 5:
+* 101 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 6:
+* 46 Seqs
+* 1105-003-5A_Synergus_oneratus_C_Quercus_alba_Acraspis_pezomachoides_Paducah_KY [organism=Synergus erinacei] Synergus erinacei 1105-003-10A cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50082
+
+Cluster 7:
+* 44 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 8:
+* 22 Seqs
+* OQ297733.1 Andricus sp. isolate a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|44136
+
+Cluster 9:
+* 20 Seqs
+* Andricus-pisiformis_Q-macrocarpa_Iowa-City-IA_723-037-1a Alignment of 2 sequences: AW_723-037-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_723-037-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 95.29%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50480
+
+----------------------------------------------------------------------------------------------------
+
+3156-456-D8
+1 Clusters
+Cluster 1:
+* 24 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+3133-186-D1
+5 Clusters
+Cluster 1:
+* 33 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 2:
+* 32 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.93%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 3:
+* 28 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 4:
+* 23 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 20 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+----------------------------------------------------------------------------------------------------
+
+2798-429-D1
+6 Clusters
+Cluster 1:
+* 383 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 2:
+* 362 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 3:
+* 189 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 4:
+* 32 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 5:
+* 22 Seqs
+* OQ754421.1 Trichagalma acutissimae voucher Hy135 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.06%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|31652
+
+Cluster 6:
+* 20 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.66%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+----------------------------------------------------------------------------------------------------
+
+3155-456-D8
+46 Clusters
+Cluster 1:
+* 1755 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 1582 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 144 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 4:
+* 141 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.82%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 5:
+* 137 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 114 Seqs
+* Eulophidae_Dryocosmus-quercusnotha_Q-palustris_Wayne-PA_2456-87-E3_B-Burrous
+* Percent Identity: 93.27%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50614
+
+Cluster 7:
+* 96 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 8:
+* 91 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 9:
+* 83 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 10:
+* 83 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 11:
+* 78 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 12:
+* 76 Seqs
+* OQ297733.1 Andricus sp. isolate a cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.23%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|44136
+
+Cluster 13:
+* 72 Seqs
+* OR753619.1 Polistes gilvus voucher IEBR-Ves-107 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.34%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|30174
+
+Cluster 14:
+* 71 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 15:
+* 68 Seqs
+* Neuroterus-floccosus_Q-macrocarpa_Lexington-KY_598-022-7 Alignment of 2 sequences: AW_598-022-7R_ccg171120_2017-11-20.ab1 (reversed), AW_598-022-7F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.59%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50465
+
+Cluster 16:
+* 64 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 17:
+* 63 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 18:
+* 61 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 19:
+* 61 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 20:
+* 61 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 21:
+* 60 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 22:
+* 59 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.62%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 23:
+* 58 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 24:
+* 50 Seqs
+* Eulophidae_Druon-ignotum_Q-macrocarpa_Tolstoi-Canada_2390-8-E12_C-Friesen
+* Percent Identity: 90.98%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50611
+
+Cluster 25:
+* 48 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 26:
+* 46 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 27:
+* 46 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 28:
+* 41 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.53%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 29:
+* 41 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.27%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 30:
+* 40 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 31:
+* 39 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 32:
+* 37 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 33:
+* 37 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.34%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 34:
+* 37 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 35:
+* 34 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 36:
+* 32 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 37:
+* 30 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.35%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 38:
+* 29 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 39:
+* 28 Seqs
+* 1059-024-1_all;651;77
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50570
+
+Cluster 40:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 41:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 42:
+* 23 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+Cluster 43:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.15%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 44:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.95%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 45:
+* 21 Seqs
+* PV031853.1 Sycophila binotata voucher GDEL1778_0001 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 88.36%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|1173
+
+Cluster 46:
+* 21 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+1858-125-1
+6 Clusters
+Cluster 1:
+* 196 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 97.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 2:
+* 123 Seqs
+* OP580122.1 Trichogramma sp. 1 PFRJ-2022b isolate PR20-459 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|39899
+
+Cluster 3:
+* 96 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 4:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.81%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 5:
+* 25 Seqs
+* Dryocosmus-imbricariae_Q-falcata_Paris-TN_1133-059-2
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50403
+
+Cluster 6:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+----------------------------------------------------------------------------------------------------
+
+2355-374-2_copy
+5 Clusters
+Cluster 1:
+* 101 Seqs
+* Unknown-q-garryana-plate-gall_Q-garryana_Gazelle-CA_1813-242-1A_all;658;15_(reversed)
+* Percent Identity: 95.74%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50434
+
+Cluster 2:
+* 81 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 3:
+* 59 Seqs
+* Unknown-q-garryana-plate-gall_Q-garryana_Gazelle-CA_1813-242-1A_all;658;15_(reversed)
+* Percent Identity: 95.73%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50434
+
+Cluster 4:
+* 25 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 22 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+----------------------------------------------------------------------------------------------------
+
+2202-344-1_copy
+9 Clusters
+Cluster 1:
+* 1074 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 2:
+* 299 Seqs
+* PV055144.1 Polistes sp. isolate NIBR-RORX0000006245 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 83.74%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|972
+
+Cluster 3:
+* 102 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 88.97%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 4:
+* 47 Seqs
+* Callirhytis-quercuscornigera_Q-palustris_Creve-Coer-MO_932-070-12a Alignment of 2 sequences: AW_932-070-12aF_ccg181218_2018-12-18.ab1, AW_932-070-12aR_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50510
+
+Cluster 5:
+* 43 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 93.30%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 6:
+* 34 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 88.97%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 7:
+* 27 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 8:
+* 26 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 91.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 9:
+* 24 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 92.69%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+----------------------------------------------------------------------------------------------------
+
+2847-9-D6
+2 Clusters
+Cluster 1:
+* 1908 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 2:
+* 1604 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+3156-456-D4
+5 Clusters
+Cluster 1:
+* 780 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 2:
+* 587 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 3:
+* 255 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 4:
+* 69 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 87.56%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 5:
+* 35 Seqs
+* Unknown-q-garryana-plate-gall_Q-garryana_Gazelle-CA_1813-242-1A_all;658;15_(reversed)
+* Percent Identity: 95.74%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50434
+
+----------------------------------------------------------------------------------------------------
+
+2443-317-D2
+32 Clusters
+Cluster 1:
+* 1323 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 410 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.66%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 3:
+* 224 Seqs
+* Neuroterus-floccosus_Q-macrocarpa_Lexington-KY_598-022-7 Alignment of 2 sequences: AW_598-022-7R_ccg171120_2017-11-20.ab1 (reversed), AW_598-022-7F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.59%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50465
+
+Cluster 4:
+* 107 Seqs
+* 2098-999-1_Synergus_Q_alba_Unk_BlandyFarm_VA_(reversed)
+* Percent Identity: 93.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50054
+
+Cluster 5:
+* 89 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 6:
+* 74 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.52%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 7:
+* 66 Seqs
+* Torymus_Dryocosmus-dubiousus_Q-agrifolia_Walnut-Grove-CA_2510-324-D6_N-Ito
+* Percent Identity: 88.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50035
+
+Cluster 8:
+* 61 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 9:
+* 61 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.98%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 10:
+* 50 Seqs
+* Brunettweldia-washingtonensis_Q-lobata_RHRP-CA_2121-322-1_all;658;100
+* Percent Identity: 93.46%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50380
+
+Cluster 11:
+* 46 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 93.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 12:
+* 41 Seqs
+* OR753619.1 Polistes gilvus voucher IEBR-Ves-107 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.34%
+* E-value: 6.77e-175
+* Accession: gnl|BL_ORD_ID|30174
+
+Cluster 13:
+* 39 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 14:
+* 37 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 15:
+* 37 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.64%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 16:
+* 36 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 17:
+* 36 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 18:
+* 35 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.79%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 19:
+* 34 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 94.22%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 20:
+* 31 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.40%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 21:
+* 29 Seqs
+* Neuroterus-washingtonensis_Nw_1/1658
+* Percent Identity: 93.47%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50419
+
+Cluster 22:
+* 28 Seqs
+* 419-042-26A_Ceroptres_sp1-32-33-34_Q_bicolor_Andricus_quercuspetiolicola_Iowa_City_IA
+* Percent Identity: 98.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50679
+
+Cluster 23:
+* 28 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.25%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 24:
+* 26 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.19%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 25:
+* 26 Seqs
+* Callirhytis-scitula_Q-rubra_Tiffin-IA_872-049-1a Alignment of 2 sequences: AW_872-049-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_872-049-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 98.48%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50506
+
+Cluster 26:
+* 25 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 27:
+* 24 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.91%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 28:
+* 24 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 29:
+* 24 Seqs
+* 2106-314-1_Synergus_Q_chryolepsis_bristly_pear_Marin_Co_CA_(reversed)
+* Percent Identity: 87.37%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50056
+
+Cluster 30:
+* 23 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 91.76%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 31:
+* 20 Seqs
+* AY368913.1 Diastrophus turgidus cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 92.10%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50743
+
+Cluster 32:
+* 20 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 89.33%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+3067-180-D1
+3 Clusters
+Cluster 1:
+* 111 Seqs
+* Druon-ignotum_Q-macrocarpa_Spirit-Lake-IA_114-1-35A Alignment of 2 sequences: AW_114-1-35AF_ccg171012_2017-10-12.ab1, AW_114-1-35AR_ccg171012_2017-10-12.ab1 (reversed)
+* Percent Identity: 97.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50442
+
+Cluster 2:
+* 75 Seqs
+* Druon-ignotum_Q-macrocarpa_Spirit-Lake-IA_114-1-35A Alignment of 2 sequences: AW_114-1-35AF_ccg171012_2017-10-12.ab1, AW_114-1-35AR_ccg171012_2017-10-12.ab1 (reversed)
+* Percent Identity: 97.11%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50442
+
+Cluster 3:
+* 34 Seqs
+* Druon-ignotum_Q-macrocarpa_Spirit-Lake-IA_114-1-35A Alignment of 2 sequences: AW_114-1-35AF_ccg171012_2017-10-12.ab1, AW_114-1-35AR_ccg171012_2017-10-12.ab1 (reversed)
+* Percent Identity: 97.01%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50442
+
+----------------------------------------------------------------------------------------------------
+
+2395-51-E3
+0 Clusters
+
+2797-428-D1
+5 Clusters
+Cluster 1:
+* 1783 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 2:
+* 1392 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 3:
+* 92 Seqs
+* No-hit
+* Percent Identity: 0.00%
+* E-value: 0
+* Accession: None
+
+Cluster 4:
+* 40 Seqs
+* No-hit
+* Percent Identity: 0.00%
+* E-value: 0
+* Accession: None
+
+Cluster 5:
+* 21 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+----------------------------------------------------------------------------------------------------
+
+3074-216-D1
+10 Clusters
+Cluster 1:
+* 352 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+Cluster 2:
+* 293 Seqs
+* Disholcaspis-quercusmamma_Q-bicolor_Iowa-City-IA_499-020-1 Alignment of 2 sequences: AW_499-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_499-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 95.89%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50457
+
+Cluster 3:
+* 84 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 61 Seqs
+* 642-009-23_Synergus_punctatus_Quercus_bicolor_Andricus_nigricens_Iowa_City_IA [organism=Synergus punctatus] Synergus punctatus 642-009-23 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50197
+
+Cluster 5:
+* 31 Seqs
+* Amphibolips-quercusjuglans_Q-palustris_Blacklikck-Park-OH_1164-110-8 Alignment of 2 sequences: AW_1164-110-8F_ccg181218_2018-12-18.ab1, AW_1164-110-8R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 96.04%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50517
+
+Cluster 6:
+* 26 Seqs
+* Philonix-fulvicollis_Q-marcocarpa_Konza-KA_636-023-6 Alignment of 2 sequences: AW_636-023-6F_ccg181218_2018-12-18.ab1, AW_636-023-6R_ccg181218_2018-12-18.ab1 (reversed)
+* Percent Identity: 95.28%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50470
+
+Cluster 7:
+* 22 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 8:
+* 22 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 94.38%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
+
+Cluster 9:
+* 21 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 10:
+* 21 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2865-19-D1
+10 Clusters
+Cluster 1:
+* 716 Seqs
+* Disholcaspis-querucusmamma_Q-macrocarpa_Iowa-City-IA_644-020-1 Alignment of 2 sequences: AW_644-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_644-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50472
+
+Cluster 2:
+* 673 Seqs
+* AY368911.1 Synophromorpha sylvestris cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial gene for mitochondrial product
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50747
+
+Cluster 3:
+* 444 Seqs
+* Disholcaspis-querucusmamma_Q-macrocarpa_Iowa-City-IA_644-020-1 Alignment of 2 sequences: AW_644-020-1R_ccg171120_2017-11-20.ab1 (reversed), AW_644-020-1F_ccg171120_2017-11-20.ab1
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50472
+
+Cluster 4:
+* 441 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 5:
+* 224 Seqs
+* Unknown_Q-gambelii_ASNF-AZ_1645-169-1A_all;658;100
+* Percent Identity: 97.41%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50427
+
+Cluster 6:
+* 168 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.09%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+Cluster 7:
+* 135 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 98.18%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 8:
+* 74 Seqs
+* Eulophidae_Dryocosmus-quercusnotha_Q-palustris_Wayne-PA_2456-87-E3_B-Burrous
+* Percent Identity: 93.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50614
+
+Cluster 9:
+* 55 Seqs
+* Andricus-quercuspetiolicola_Q-bicolor_Iowa-City-IA_780-042-1a Alignment of 2 sequences: AW_780-042-1aR_ccg171207_2017-12-07.ab1 (reversed), AW_780-042-1aF_ccg171207_2017-12-07.ab1
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50495
+
+Cluster 10:
+* 20 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 87.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+----------------------------------------------------------------------------------------------------
+
+2838-999-04
+7 Clusters
+Cluster 1:
+* 812 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.19%
+* E-value: 1.86e-175
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 2:
+* 663 Seqs
+* OQ980614.1 Ormyrus sp. 1 DNA-2023a voucher Haplotype.HCO cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 84.33%
+* E-value: 4.01e-177
+* Accession: gnl|BL_ORD_ID|36705
+
+Cluster 3:
+* 153 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 100.00%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 4:
+* 83 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+Cluster 5:
+* 77 Seqs
+* Callirhytis-quercusclavigera_Q-laurifolia_Fernandina-Beach-FL_1905-100-1_all;658;100_(reversed)
+* Percent Identity: 99.70%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50386
+
+Cluster 6:
+* 23 Seqs
+* MT259856.1 Curculionidae sp. DS103 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 89.84%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|22930
+
+Cluster 7:
+* 20 Seqs
+* 1018-023-001_all;651;100
+* Percent Identity: 99.39%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50569
+
+----------------------------------------------------------------------------------------------------
+
+3065-442-D1
+2 Clusters
+Cluster 1:
+* 50 Seqs
+* Galler_Q-veluntina_736-086-1_2
+* Percent Identity: 97.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50412
+
+Cluster 2:
+* 34 Seqs
+* Galler_Q-veluntina_736-086-1_2
+* Percent Identity: 97.26%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50412
+
+----------------------------------------------------------------------------------------------------
+
+2018-24-2
+7 Clusters
+Cluster 1:
+* 1073 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 965 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 96.50%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 3:
+* 254 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 94 Seqs
+* Torymus_Amphibolips-q-marilandica-marbled-oak-apple_Q-marilandica_Arlington-TX_2479-391-E3_A-Kranz
+* Percent Identity: 90.78%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50028
+
+Cluster 5:
+* 66 Seqs
+* MH544114.1_Sycophila_globuli_isolate_CSF_15_cytochrome_oxidase_subunit_I_(COI)_gene,_partial_cds;_mitochondrial A new nucleotide sequence entered manually
+* Percent Identity: 92.49%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50358
+
+Cluster 6:
+* 20 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 95.44%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 7:
+* 19 Seqs
+* OUTGROUP-265-007-16_Euceroptres_Quercus_macrocarpa_Andricus_foliaformis_Iowa_City_IA [organism=Euceroptres] Euceroptres 265-007-16 cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 98.94%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50229
+
+----------------------------------------------------------------------------------------------------
+
+2157-136-E2
+3 Clusters
+Cluster 1:
+* 303 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 2:
+* 41 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+Cluster 3:
+* 40 Seqs
+* Eulophidae_Andricus_capillatus_Q-alba_Arlington-VA_2007-277-E2_B-Burrous
+* Percent Identity: 90.66%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50604
+
+----------------------------------------------------------------------------------------------------
+
+2894-276-D2
+4 Clusters
+Cluster 1:
+* 420 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 2:
+* 53 Seqs
+* 696-037-2B_Synergus_laeviventris_Quercus_alba_Andricus_pisiformis_Iowa_City_IA [organism=Synergus laeviventris] Synergus laeviventris 696-037-2B cytochrome oxidase subunit 1 (COI) gene, partial cds: mitochondrial
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50210
+
+Cluster 3:
+* 23 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 21 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+----------------------------------------------------------------------------------------------------
+
+2515-12-E14
+2 Clusters
+Cluster 1:
+* 21 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+Cluster 2:
+* 21 Seqs
+* Melikaiella-ostensackeni_Q-veluntina_Tiffin-IA_876-016-11a Alignment of 2 sequences: AW_876-016-11aF_ccg171207_2017-12-07.ab1, AW_876-016-11aR_ccg171207_2017-12-07.ab1 (reversed)
+* Percent Identity: 99.85%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50507
+
+----------------------------------------------------------------------------------------------------
+
+3155-456-D1
+3 Clusters
+Cluster 1:
+* 214 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.67%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 2:
+* 160 Seqs
+* DQ012640.1 Diastrophus rubi cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+* Percent Identity: 91.65%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50742
+
+Cluster 3:
+* 20 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+----------------------------------------------------------------------------------------------------
+
+1426-010-25B
+4 Clusters
+Cluster 1:
+* 39 Seqs
+* Phylloteras-sp_Q-austrina_Pickens-AL_2131-999-2_all;657;23_(reversed)
+* Percent Identity: 91.32%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50420
+
+Cluster 2:
+* 31 Seqs
+* 1563-062-5_Ceroptres_sp3_Q_rubra_Zopheroteras_sphaerula_Elkader_IA
+* Percent Identity: 99.54%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50652
+
+Cluster 3:
+* 23 Seqs
+* Unknown_Q-bicolor_Hickory-Hills-IA_211-999-5
+* Percent Identity: 99.24%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|50425
+
+Cluster 4:
+* 20 Seqs
+* OM473362.1 Loxaulus laeta voucher ILV162 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+* Percent Identity: 93.92%
+* E-value: 0
+* Accession: gnl|BL_ORD_ID|42889
